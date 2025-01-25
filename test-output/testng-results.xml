@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-03T11:01:05 IST" name="Default suite" finished-at="2025-01-03T11:01:10 IST" duration-ms="5322">
+    <groups>
+    </groups>
+    <test started-at="2025-01-03T11:01:05 IST" name="Default test" finished-at="2025-01-03T11:01:10 IST" duration-ms="5322">
+      <class name="pckage1.testngClass2">
+        <test-method is-config="true" signature="launchbrowse()[pri:0, instance:pckage1.testngClass2@42f3156d]" started-at="2025-01-03T11:01:03 IST" name="launchbrowse" finished-at="2025-01-03T11:01:05 IST" duration-ms="1918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowse -->
+        <test-method signature="verifyHomepageTitle()[pri:1, instance:pckage1.testngClass2@42f3156d]" started-at="2025-01-03T11:01:05 IST" name="verifyHomepageTitle" finished-at="2025-01-03T11:01:05 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method signature="addcustomerlink()[pri:2, instance:pckage1.testngClass2@42f3156d]" started-at="2025-01-03T11:01:05 IST" name="addcustomerlink" finished-at="2025-01-03T11:01:06 IST" duration-ms="1041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomerlink -->
+        <test-method signature="addcustomerradiobutton1()[pri:3, instance:pckage1.testngClass2@42f3156d]" started-at="2025-01-03T11:01:06 IST" name="addcustomerradiobutton1" finished-at="2025-01-03T11:01:10 IST" duration-ms="4109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomerradiobutton1 -->
+        <test-method signature="addcustomerradiobutton2()[pri:4, instance:pckage1.testngClass2@42f3156d]" started-at="2025-01-03T11:01:10 IST" name="addcustomerradiobutton2" finished-at="2025-01-03T11:01:10 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomerradiobutton2 -->
+      </class> <!-- pckage1.testngClass2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
